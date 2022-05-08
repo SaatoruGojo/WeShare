@@ -22,7 +22,10 @@ module.exports = {
   plugins: [
     'react',
   ],
+  
   rules: {
+    
+    'indent' : ["error", 4, { "ignoredNodes": ["JSXElement *"] }],
     'react/function-component-definition': 0,
     'no-nonoctal-decimal-escape': 0,
     'no-unsafe-optional-chaining': 0,
