@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "HARSH ANAND <harshanand23561@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
